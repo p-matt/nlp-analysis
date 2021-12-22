@@ -12,7 +12,8 @@ Application of the general approach of classical natural language processing syn
     - Embedding
 - Classification models
     - Deep learning
-        - Set model's metrics, loss function
+        - Set model's metrics, loss function, architecture
+	- RNN, LSTM
         - Tunning Parameters
     - Machine learning
         - XGBoost, SGDClassifier, RandomForest
